@@ -1,3 +1,9 @@
+# Ejercicio 1b
+
+# Modulacion doble banda lateral con portadora suprimida (DBL PS)
+# m(t) = sinc(100t)
+# Frecuencia de la portadora fc = 1Khz
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.fft import fft, fftshift
